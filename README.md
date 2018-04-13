@@ -30,6 +30,10 @@ Al dar click en enviar en el display muestra los datos mencionados con la ayuda 
 
 Con el potenciómetro se regula el contraste de la pantalla permitiendo una visibilidad ajustable de los datos.
 
+El proyecto de Arduino tiene como nombre Arduino_con_java_Pantalla.
+EL proyecto en Java tiene como nombre comunicación.
+
+
 Todo esto se realizó con licencias de código abierto tanto como de Java y Arduino.
 
 
